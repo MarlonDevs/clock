@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'inconsole', sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    width: auto;
+    height: auto;
+    background-color: #5F8D4E;
+    padding: 50px;
+    border-radius: 20px;
+    border: 3px solid #444;
+    font-size: 42px;
+}
